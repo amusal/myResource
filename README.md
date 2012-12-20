@@ -1,0 +1,4 @@
+myResource
+==========
+
+myResource
